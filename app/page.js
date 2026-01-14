@@ -10,14 +10,12 @@ import OptionsTrading from "@/components/home/optionstrading";
 import Plans from "@/components/home/plans";
 import Stats from "@/components/home/stats";
 import Steps from "@/components/home/steps";
-import Benefit from "@/components/home/benefit";
 import Liquidity from "@/components/home/liqudity";
 import WhatPeople from "@/components/home/whatpeople";
 import Footer from "@/components/home/footer";
 // import Video from "@/components/home/video";
 import Animate from "@/components/animate";
-import TawkMessengerReact from "@tawk.to/tawk-messenger-react";
-import { MarketData } from "react-ts-tradingview-widgets";
+
 
 export default function Home() {
   return (

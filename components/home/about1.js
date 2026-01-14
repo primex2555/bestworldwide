@@ -1,9 +1,5 @@
 "use client";
 import { TickerTape } from "react-ts-tradingview-widgets";
-import { fon } from "../fonts";
-import { useState, useEffect } from "react";
-import Image from "next/image";
-
 import { Button } from "../ui/button";
 import { Card } from "../ui/card";
 
