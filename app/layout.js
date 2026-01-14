@@ -1,5 +1,5 @@
 import "./globals.css";
-import { Figtree, Lexend, Plus_Jakarta_Sans } from "next/font/google";
+import { Lexend } from "next/font/google";
 import LayoutGoogleTranslate from "@/components/layoutGoogleTranslate";
 import { ThemeProvider as NextThemesProvider } from "next-themes";
 

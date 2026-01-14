@@ -2,15 +2,10 @@
 
 import { NextResponse, NextRequest } from "next/server";
 
-export function middleware(req) {
+export function proxy(req) {
   const { pathname } = req.nextUrl;
 
-  // if (pathname === "/errorpage") {
-  //   return NextResponse.next();
-  // }
-
-  // return NextResponse.redirect(new URL("/errorpage", req.url));
-
+  
   const admintoken = req.cookies.get("adminsessionId")?.value;
   const usertoken = req.cookies.get("usersessionId")?.value;
 

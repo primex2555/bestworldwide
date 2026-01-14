@@ -1,6 +1,6 @@
 import connectDB from "@/app/lib/mongodb";
 import userdb from "@/app/models/user";
-import { sendWithdrawEmail } from "@/app/helpers/withdraw";
+// import { sendWithdrawEmail } from "@/app/helpers/withdraw";
 import { cookies } from "next/headers";
 
 export async function POST(req) {
