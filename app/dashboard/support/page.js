@@ -7,7 +7,7 @@ import useData from "@/components/useData";
 import { Card } from "@/components/ui/card";
 import { Textarea } from "@/components/ui/textarea";
 import { Button } from "@/components/ui/button";
-import { sendSupportEmail } from "../../helpers/support";
+//import { sendSupportEmail } from "../../helpers/support";
 
 export default function Support() {
   const { dataLoading, data } = useData();
