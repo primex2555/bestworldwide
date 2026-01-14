@@ -1,0 +1,787 @@
+[
+  {
+    "currency": "Afghanistan Afghani",
+    "abbreviation": "AFN",
+    "symbol": "؋"
+  },
+  {
+    "currency": "Albania Lek",
+    "abbreviation": "ALL",
+    "symbol": "Lek"
+  },
+  {
+    "currency": "Algeria Dinar",
+    "abbreviation": "DZD",
+    "symbol": "دج"
+  },
+  {
+    "currency": "Angola Kwanza",
+    "abbreviation": "AOA",
+    "symbol": "Kz"
+  },
+  {
+    "currency": "Argentina Peso",
+    "abbreviation": "ARS",
+    "symbol": "$"
+  },
+  {
+    "currency": "Armenia Dram",
+    "abbreviation": "AMD",
+    "symbol": "֏"
+  },
+  {
+    "currency": "Aruba Guilder",
+    "abbreviation": "AWG",
+    "symbol": "ƒ"
+  },
+  {
+    "currency": "Australia Dollar",
+    "abbreviation": "AUD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Azerbaijan Manat",
+    "abbreviation": "AZN",
+    "symbol": "₼"
+  },
+  {
+    "currency": "Bahamas Dollar",
+    "abbreviation": "BSD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Bahrain Dinar",
+    "abbreviation": "BHD",
+    "symbol": ".د.ب"
+  },
+  {
+    "currency": "Bangladesh Taka",
+    "abbreviation": "BDT",
+    "symbol": "৳"
+  },
+  {
+    "currency": "Barbados Dollar",
+    "abbreviation": "BBD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Belarus Ruble",
+    "abbreviation": "BYN",
+    "symbol": "Br"
+  },
+  {
+    "currency": "Belize Dollar",
+    "abbreviation": "BZD",
+    "symbol": "BZ$"
+  },
+  {
+    "currency": "Benin CFA Franc BCEAO",
+    "abbreviation": "XOF",
+    "symbol": "CFA"
+  },
+  {
+    "currency": "Bermuda Dollar",
+    "abbreviation": "BMD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Bhutan Ngultrum",
+    "abbreviation": "BTN",
+    "symbol": "Nu."
+  },
+  {
+    "currency": "Bolivia Boliviano",
+    "abbreviation": "BOB",
+    "symbol": "Bs."
+  },
+  {
+    "currency": "Bosnia and Herzegovina Convertible Mark",
+    "abbreviation": "BAM",
+    "symbol": "KM"
+  },
+  {
+    "currency": "Botswana Pula",
+    "abbreviation": "BWP",
+    "symbol": "P"
+  },
+  {
+    "currency": "Brazil Real",
+    "abbreviation": "BRL",
+    "symbol": "R$"
+  },
+  {
+    "currency": "Brunei Darussalam Dollar",
+    "abbreviation": "BND",
+    "symbol": "$"
+  },
+  {
+    "currency": "Bulgaria Lev",
+    "abbreviation": "BGN",
+    "symbol": "лв"
+  },
+  {
+    "currency": "Burkina Faso CFA Franc BCEAO",
+    "abbreviation": "XOF",
+    "symbol": "CFA"
+  },
+  {
+    "currency": "Burundi Franc",
+    "abbreviation": "BIF",
+    "symbol": "FBu"
+  },
+  {
+    "currency": "Cambodia Riel",
+    "abbreviation": "KHR",
+    "symbol": "៛"
+  },
+  {
+    "currency": "Cameroon CFA Franc BEAC",
+    "abbreviation": "XAF",
+    "symbol": "FCFA"
+  },
+  {
+    "currency": "Canada Dollar",
+    "abbreviation": "CAD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Cape Verde Escudo",
+    "abbreviation": "CVE",
+    "symbol": "$"
+  },
+  {
+    "currency": "Cayman Islands Dollar",
+    "abbreviation": "KYD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Central African CFA Franc BEAC",
+    "abbreviation": "XAF",
+    "symbol": "FCFA"
+  },
+  {
+    "currency": "Chad CFA Franc BEAC",
+    "abbreviation": "XAF",
+    "symbol": "FCFA"
+  },
+  {
+    "currency": "Chile Peso",
+    "abbreviation": "CLP",
+    "symbol": "$"
+  },
+  {
+    "currency": "China Yuan Renminbi",
+    "abbreviation": "CNY",
+    "symbol": "¥"
+  },
+  {
+    "currency": "Colombia Peso",
+    "abbreviation": "COP",
+    "symbol": "$"
+  },
+  {
+    "currency": "Comoros Franc",
+    "abbreviation": "KMF",
+    "symbol": "CF"
+  },
+  {
+    "currency": "Congo CFA Franc BEAC",
+    "abbreviation": "XAF",
+    "symbol": "FCFA"
+  },
+  {
+    "currency": "Costa Rica Colon",
+    "abbreviation": "CRC",
+    "symbol": "₡"
+  },
+  {
+    "currency": "Croatia Kuna",
+    "abbreviation": "HRK",
+    "symbol": "kn"
+  },
+  {
+    "currency": "Cuba Peso",
+    "abbreviation": "CUP",
+    "symbol": "₱"
+  },
+  {
+    "currency": "Czech Republic Koruna",
+    "abbreviation": "CZK",
+    "symbol": "Kč"
+  },
+  {
+    "currency": "Denmark Krone",
+    "abbreviation": "DKK",
+    "symbol": "kr"
+  },
+  {
+    "currency": "Djibouti Franc",
+    "abbreviation": "DJF",
+    "symbol": "Fdj"
+  },
+  {
+    "currency": "Dominican Republic Peso",
+    "abbreviation": "DOP",
+    "symbol": "RD$"
+  },
+  {
+    "currency": "East Caribbean Dollar",
+    "abbreviation": "XCD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Egypt Pound",
+    "abbreviation": "EGP",
+    "symbol": "£"
+  },
+  {
+    "currency": "El Salvador Colon",
+    "abbreviation": "SVC",
+    "symbol": "$"
+  },
+  {
+    "currency": "Equatorial Guinea CFA Franc BEAC",
+    "abbreviation": "XAF",
+    "symbol": "FCFA"
+  },
+  {
+    "currency": "Eritrea Nakfa",
+    "abbreviation": "ERN",
+    "symbol": "Nfk"
+  },
+  {
+    "currency": "Estonia Euro",
+    "abbreviation": "EUR",
+    "symbol": "€"
+  },
+  {
+    "currency": "Ethiopia Birr",
+    "abbreviation": "ETB",
+    "symbol": "Br"
+  },
+  {
+    "currency": "Euro Member Countries",
+    "abbreviation": "EUR",
+    "symbol": "€"
+  },
+  {
+    "currency": "Falkland Islands Pound",
+    "abbreviation": "FKP",
+    "symbol": "£"
+  },
+  {
+    "currency": "Fiji Dollar",
+    "abbreviation": "FJD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Gabon CFA Franc BEAC",
+    "abbreviation": "XAF",
+    "symbol": "FCFA"
+  },
+  {
+    "currency": "Gambia Dalasi",
+    "abbreviation": "GMD",
+    "symbol": "D"
+  },
+  {
+    "currency": "Georgia Lari",
+    "abbreviation": "GEL",
+    "symbol": "₾"
+  },
+  {
+    "currency": "Ghana Cedi",
+    "abbreviation": "GHS",
+    "symbol": "₵"
+  },
+  {
+    "currency": "Gibraltar Pound",
+    "abbreviation": "GIP",
+    "symbol": "£"
+  },
+  {
+    "currency": "Guatemala Quetzal",
+    "abbreviation": "GTQ",
+    "symbol": "Q"
+  },
+  {
+    "currency": "Guinea Franc",
+    "abbreviation": "GNF",
+    "symbol": "FG"
+  },
+  {
+    "currency": "Guyana Dollar",
+    "abbreviation": "GYD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Haiti Gourde",
+    "abbreviation": "HTG",
+    "symbol": "G"
+  },
+  {
+    "currency": "Honduras Lempira",
+    "abbreviation": "HNL",
+    "symbol": "L"
+  },
+  {
+    "currency": "Hong Kong Dollar",
+    "abbreviation": "HKD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Hungary Forint",
+    "abbreviation": "HUF",
+    "symbol": "Ft"
+  },
+  {
+    "currency": "Iceland Krona",
+    "abbreviation": "ISK",
+    "symbol": "kr"
+  },
+  {
+    "currency": "India Rupee",
+    "abbreviation": "INR",
+    "symbol": "₹"
+  },
+  {
+    "currency": "Indonesia Rupiah",
+    "abbreviation": "IDR",
+    "symbol": "Rp"
+  },
+  {
+    "currency": "Iran Rial",
+    "abbreviation": "IRR",
+    "symbol": "﷼"
+  },
+  {
+    "currency": "Iraq Dinar",
+    "abbreviation": "IQD",
+    "symbol": "ع.د"
+  },
+  {
+    "currency": "Israel New Shekel",
+    "abbreviation": "ILS",
+    "symbol": "₪"
+  },
+  {
+    "currency": "Jamaica Dollar",
+    "abbreviation": "JMD",
+    "symbol": "J$"
+  },
+  {
+    "currency": "Japan Yen",
+    "abbreviation": "JPY",
+    "symbol": "¥"
+  },
+  {
+    "currency": "Jordan Dinar",
+    "abbreviation": "JOD",
+    "symbol": "د.ا"
+  },
+  {
+    "currency": "Kazakhstan Tenge",
+    "abbreviation": "KZT",
+    "symbol": "₸"
+  },
+  {
+    "currency": "Kenya Shilling",
+    "abbreviation": "KES",
+    "symbol": "KSh"
+  },
+  {
+    "currency": "Korea (North) Won",
+    "abbreviation": "KPW",
+    "symbol": "₩"
+  },
+  {
+    "currency": "Korea (South) Won",
+    "abbreviation": "KRW",
+    "symbol": "₩"
+  },
+  {
+    "currency": "Kuwait Dinar",
+    "abbreviation": "KWD",
+    "symbol": "د.ك"
+  },
+  {
+    "currency": "Kyrgyzstan Som",
+    "abbreviation": "KGS",
+    "symbol": "с"
+  },
+  {
+    "currency": "Laos Kip",
+    "abbreviation": "LAK",
+    "symbol": "₭"
+  },
+  {
+    "currency": "Lebanon Pound",
+    "abbreviation": "LBP",
+    "symbol": "£"
+  },
+  {
+    "currency": "Lesotho Loti",
+    "abbreviation": "LSL",
+    "symbol": "L"
+  },
+  {
+    "currency": "Liberia Dollar",
+    "abbreviation": "LRD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Libya Dinar",
+    "abbreviation": "LYD",
+    "symbol": "ل.د"
+  },
+  {
+    "currency": "Macedonia Denar",
+    "abbreviation": "MKD",
+    "symbol": "ден"
+  },
+  {
+    "currency": "Madagascar Ariary",
+    "abbreviation": "MGA",
+    "symbol": "Ar"
+  },
+  {
+    "currency": "Malawi Kwacha",
+    "abbreviation": "MWK",
+    "symbol": "MK"
+  },
+  {
+    "currency": "Malaysia Ringgit",
+    "abbreviation": "MYR",
+    "symbol": "RM"
+  },
+  {
+    "currency": "Maldives Rufiyaa",
+    "abbreviation": "MVR",
+    "symbol": "Rf"
+  },
+  {
+    "currency": "Mauritania Ouguiya",
+    "abbreviation": "MRU",
+    "symbol": "UM"
+  },
+  {
+    "currency": "Mauritius Rupee",
+    "abbreviation": "MUR",
+    "symbol": "₨"
+  },
+  {
+    "currency": "Mexico Peso",
+    "abbreviation": "MXN",
+    "symbol": "$"
+  },
+  {
+    "currency": "Moldova Leu",
+    "abbreviation": "MDL",
+    "symbol": "L"
+  },
+  {
+    "currency": "Mongolia Tughrik",
+    "abbreviation": "MNT",
+    "symbol": "₮"
+  },
+  {
+    "currency": "Morocco Dirham",
+    "abbreviation": "MAD",
+    "symbol": "د.م."
+  },
+  {
+    "currency": "Mozambique Metical",
+    "abbreviation": "MZN",
+    "symbol": "MT"
+  },
+  {
+    "currency": "Myanmar Kyat",
+    "abbreviation": "MMK",
+    "symbol": "K"
+  },
+  {
+    "currency": "Namibia Dollar",
+    "abbreviation": "NAD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Nepal Rupee",
+    "abbreviation": "NPR",
+    "symbol": "₨"
+  },
+  {
+    "currency": "Netherlands Antilles Guilder",
+    "abbreviation": "ANG",
+    "symbol": "ƒ"
+  },
+  {
+    "currency": "New Zealand Dollar",
+    "abbreviation": "NZD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Nicaragua Cordoba",
+    "abbreviation": "NIO",
+    "symbol": "C$"
+  },
+  {
+    "currency": "Nigeria Naira",
+    "abbreviation": "NGN",
+    "symbol": "₦"
+  },
+  {
+    "currency": "Norway Krone",
+    "abbreviation": "NOK",
+    "symbol": "kr"
+  },
+  {
+    "currency": "Oman Rial",
+    "abbreviation": "OMR",
+    "symbol": "﷼"
+  },
+  {
+    "currency": "Pakistan Rupee",
+    "abbreviation": "PKR",
+    "symbol": "₨"
+  },
+  {
+    "currency": "Panama Balboa",
+    "abbreviation": "PAB",
+    "symbol": "B/."
+  },
+  {
+    "currency": "Papua New Guinea Kina",
+    "abbreviation": "PGK",
+    "symbol": "K"
+  },
+  {
+    "currency": "Paraguay Guarani",
+    "abbreviation": "PYG",
+    "symbol": "₲"
+  },
+  {
+    "currency": "Peru Sol",
+    "abbreviation": "PEN",
+    "symbol": "S/."
+  },
+  {
+    "currency": "Philippines Peso",
+    "abbreviation": "PHP",
+    "symbol": "₱"
+  },
+  {
+    "currency": "Poland Zloty",
+    "abbreviation": "PLN",
+    "symbol": "zł"
+  },
+  {
+    "currency": "Qatar Riyal",
+    "abbreviation": "QAR",
+    "symbol": "﷼"
+  },
+  {
+    "currency": "Romania Leu",
+    "abbreviation": "RON",
+    "symbol": "lei"
+  },
+  {
+    "currency": "Russia Ruble",
+    "abbreviation": "RUB",
+    "symbol": "₽"
+  },
+  {
+    "currency": "Rwanda Franc",
+    "abbreviation": "RWF",
+    "symbol": "FRw"
+  },
+  {
+    "currency": "Saint Helena Pound",
+    "abbreviation": "SHP",
+    "symbol": "£"
+  },
+  {
+    "currency": "Saudi Arabia Riyal",
+    "abbreviation": "SAR",
+    "symbol": "﷼"
+  },
+  {
+    "currency": "Serbia Dinar",
+    "abbreviation": "RSD",
+    "symbol": "дин"
+  },
+  {
+    "currency": "Seychelles Rupee",
+    "abbreviation": "SCR",
+    "symbol": "₨"
+  },
+  {
+    "currency": "Sierra Leone Leone",
+    "abbreviation": "SLL",
+    "symbol": "Le"
+  },
+  {
+    "currency": "Singapore Dollar",
+    "abbreviation": "SGD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Solomon Islands Dollar",
+    "abbreviation": "SBD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Somalia Shilling",
+    "abbreviation": "SOS",
+    "symbol": "S"
+  },
+  {
+    "currency": "South Africa Rand",
+    "abbreviation": "ZAR",
+    "symbol": "R"
+  },
+  {
+    "currency": "Sri Lanka Rupee",
+    "abbreviation": "LKR",
+    "symbol": "₨"
+  },
+  {
+    "currency": "Sudan Pound",
+    "abbreviation": "SDG",
+    "symbol": "ج.س."
+  },
+  {
+    "currency": "Suriname Dollar",
+    "abbreviation": "SRD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Swaziland Lilangeni",
+    "abbreviation": "SZL",
+    "symbol": "L"
+  },
+  {
+    "currency": "Sweden Krona",
+    "abbreviation": "SEK",
+    "symbol": "kr"
+  },
+  {
+    "currency": "Switzerland Franc",
+    "abbreviation": "CHF",
+    "symbol": "CHF"
+  },
+  {
+    "currency": "Syria Pound",
+    "abbreviation": "SYP",
+    "symbol": "£"
+  },
+  {
+    "currency": "Taiwan New Dollar",
+    "abbreviation": "TWD",
+    "symbol": "NT$"
+  },
+  {
+    "currency": "Tajikistan Somoni",
+    "abbreviation": "TJS",
+    "symbol": "SM"
+  },
+  {
+    "currency": "Tanzania Shilling",
+    "abbreviation": "TZS",
+    "symbol": "TSh"
+  },
+  {
+    "currency": "Thailand Baht",
+    "abbreviation": "THB",
+    "symbol": "฿"
+  },
+  {
+    "currency": "Tonga Pa'anga",
+    "abbreviation": "TOP",
+    "symbol": "T$"
+  },
+  {
+    "currency": "Trinidad and Tobago Dollar",
+    "abbreviation": "TTD",
+    "symbol": "TT$"
+  },
+  {
+    "currency": "Tunisia Dinar",
+    "abbreviation": "TND",
+    "symbol": "د.ت"
+  },
+  {
+    "currency": "Turkey Lira",
+    "abbreviation": "TRY",
+    "symbol": "₺"
+  },
+  {
+    "currency": "Turkmenistan Manat",
+    "abbreviation": "TMT",
+    "symbol": "m"
+  },
+  {
+    "currency": "Uganda Shilling",
+    "abbreviation": "UGX",
+    "symbol": "USh"
+  },
+  {
+    "currency": "Ukraine Hryvnia",
+    "abbreviation": "UAH",
+    "symbol": "₴"
+  },
+  {
+    "currency": "United Arab Emirates Dirham",
+    "abbreviation": "AED",
+    "symbol": "د.إ"
+  },
+  {
+    "currency": "United Kingdom Pound",
+    "abbreviation": "GBP",
+    "symbol": "£"
+  },
+  {
+    "currency": "United States Dollar",
+    "abbreviation": "USD",
+    "symbol": "$"
+  },
+  {
+    "currency": "Uruguay Peso",
+    "abbreviation": "UYU",
+    "symbol": "$U"
+  },
+  {
+    "currency": "Uzbekistan Som",
+    "abbreviation": "UZS",
+    "symbol": "so'm"
+  },
+  {
+    "currency": "Vanuatu Vatu",
+    "abbreviation": "VUV",
+    "symbol": "VT"
+  },
+  {
+    "currency": "Venezuela Bolivar",
+    "abbreviation": "VES",
+    "symbol": "Bs"
+  },
+  {
+    "currency": "Vietnam Dong",
+    "abbreviation": "VND",
+    "symbol": "₫"
+  },
+  {
+    "currency": "Yemen Rial",
+    "abbreviation": "YER",
+    "symbol": "﷼"
+  },
+  {
+    "currency": "Zambia Kwacha",
+    "abbreviation": "ZMW",
+    "symbol": "ZK"
+  },
+  {
+    "currency": "Zimbabwe Dollar",
+    "abbreviation": "ZWL",
+    "symbol": "$"
+  }
+]

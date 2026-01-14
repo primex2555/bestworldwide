@@ -1,0 +1,72 @@
+"use server";
+
+import nodemailer from "nodemailer";
+import connectDB from "@/app/lib/mongodb";
+import userdb from "@/app/models/user";
+
+export const sendWithdrawEmail = async (userId, amount) => {
+  try {
+    await connectDB();
+
+    const user = await userdb.findById({ _id: userId });
+
+    let transport = nodemailer.createTransport({
+      service: "zoho",
+      host: "smtp.zoho.com",
+      secure: true,
+      port: 465,
+      auth: {
+        user: "support@opulenttradingfx.com",
+        pass: "Lj5yQJRRG8UL",
+      },
+    });
+
+    await new Promise((resolve, reject) => {
+      transport.verify(function (error, success) {
+        if (error) {
+          console.log(error);
+          reject(error);
+        } else {
+          console.log("Server is ready to take our messages");
+          resolve(success);
+        }
+      });
+    });
+
+    // Compose email options
+    const mailOptions = {
+      from: '"Opulenttradingfx" <support@opulenttradingfx.com>',
+      to: email,
+      subject: "Withdrawal Request",
+      html: `
+      <body style="font-family: Calibri, sans-serif; font-size: 14px;">
+      <p>Hello ${user.firstname},</p><p></p>
+
+        <p>You've requested to withdraw: $${amount}</p>
+        <p>Your withdrawal request has been received and its being processed.</p><br/>
+
+
+        <div>
+        Thank you.<br/>
+        <a href="mailto:support@opulenttradingfx.com target="_blank""  style="color: #1a73e8; text-decoration: none;">support@opulenttradingfx.com</a>
+        <p></p>
+        <a href="https://www.opulenttradingfx.com" target="_blank"  style="color: #1a73e8; text-decoration: none;">https://www.opulenttradingfx.com</a>
+        </div>
+    </body>`,
+    };
+
+    await new Promise((resolve, reject) => {
+      transport.sendMail(mailOptions, (err, info) => {
+        if (err) {
+          console.error(err);
+          reject(err);
+        } else {
+          console.log(info);
+          resolve(info);
+        }
+      });
+    });
+  } catch (error) {
+    console.log(error);
+  }
+};
