@@ -1,6 +1,6 @@
 "use client";
 import { Card } from "../ui/card";
-import TawkToChat from "../../components/twak";
+//import TawkToChat from "../../components/twak";
 import TranslateComponent from "../googleTranslate";
 import Image from "next/image";
 
@@ -63,7 +63,7 @@ export default function Footer() {
           </div>
         </div>
       </Card>
-      <TawkToChat />
+      //<TawkToChat />
     </>
   );
 }
