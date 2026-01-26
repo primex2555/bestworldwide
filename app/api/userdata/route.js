@@ -7,7 +7,8 @@ export const dynamic = "force-dynamic";
 
 export async function GET() {
   try {
-    const sessionId = cookies().get("adminsessionId")?.value;
+    const cookieStore = await cookies();
+    const sessionId = cookieStore.get("adminsessionId")?.value;
     if (!sessionId) {
       return NextResponse.json({ error: "Not authenticated" });
     } else if (sessionId === "admin") {

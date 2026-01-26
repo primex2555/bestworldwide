@@ -7,7 +7,8 @@ export const dynamic = "force-dynamic";
 
 export async function GET(req) {
   try {
-    const sessionId = cookies().get("usersessionId")?.value;
+     const cookieStore = await cookies();
+    const sessionId = cookieStore.get("usersessionId")?.value;
     if (!sessionId) {
       return NextResponse.json({ error: "Not authenticated" });
     } else if (sessionId) {
