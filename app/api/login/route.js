@@ -6,6 +6,7 @@ export async function POST(req) {
   try {
     await connectDB();
     const data = await req.formData();
+    const cookieStore = await cookies()
 
     const email = data.get("email");
     const password = data.get("password");
@@ -14,8 +15,8 @@ export async function POST(req) {
       return Response.json({ error: "Invalid login details" });
 
     if (email === "admin@admin.com" && password === "admin@admin.com") {
-      cookies().delete("usersessionId");
-      cookies().set("adminsessionId", "admin");
+      cookieStore.delete("usersessionId");
+      cookieStore.set("adminsessionId", "admin");
 
       return Response.json({ message: "admin" });
     }
@@ -33,8 +34,8 @@ export async function POST(req) {
     }
 
     if (getuser.email === email && getuser.password === password) {
-      cookies().delete("adminsessionId");
-      cookies().set("usersessionId", String(getuser._id));
+      cookieStore.delete("adminsessionId");
+      cookieStore.set("usersessionId", String(getuser._id));
 
       return Response.json({ value: String(getuser._id) });
     }

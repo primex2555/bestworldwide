@@ -30,8 +30,7 @@ export default function Benefit() {
     <>
       <div>
         <div className="pb-12 lg:pb-24">
-          <div className="heading-home mb-10">
-            {process.env.NEXT_PUBLIC_NAME} trade advantages
+          <div className="heading-home mb-10">Trade Advantages
           </div>
           <div className="grid grid-cols-1 gap-10 md:grid-cols-2">
             <Cardx
